@@ -17,11 +17,11 @@
   },
   "sw.js": {
     "src": "/sw.js",
-    "integrity": "sha256-+zFNvkyL9x3ZmuMOcbVp+PnF0AEnILP6flZDGaPmhZw="
+    "integrity": "sha256-gRJ/us9DJIZInZV5j9MX2ElUxQyuGwZJUZI4VGHoe84="
   },
   "sw.js.map": {
     "src": "/sw.js.map",
-    "integrity": "sha256-fLMVXkVEIyaRQUZK688HPnwYmaBgDPjyihkf9+83M34="
+    "integrity": "sha256-XZVS+bYF8oXWrjEg6r0XP2cGNEGwOwSo4OMl/O1dAJc="
   },
   "ww-847e10798c0ac8c602af.js.map": {
     "src": "/ww-847e10798c0ac8c602af.js.map",
